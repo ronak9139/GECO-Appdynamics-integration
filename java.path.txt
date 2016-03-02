@@ -1,0 +1,16 @@
+
+for run javac on cmd copy and add this path in path variable
+(do not delete existing path )
+
+C:\Program Files\Java\jdk1.8.0_25\bin;
+
+
+for run eclipse just remove this path in path variable
+(do not delete other path )
+
+C:\Program Files\Java\jdk1.8.0_25\bin;
+
+
+library for intelij idea path
+
+C:\Users\Ronak Joshi\.m2\repository\
